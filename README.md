@@ -1,4 +1,4 @@
-# Regression_Analysis_for_Startup_Profit_Prediction
+# Regression_Analysis_for_Profit_Prediction_in_Startup_Companies
 Tools used -  (1) Microsoft Excel   (2) Power Bi
 
 ## Overview
