@@ -18,7 +18,7 @@ The dataset used in this project contains information from 50 startups located i
 2. **Dashboard Visualization**: The analysis results were visualized using Power BI to provide insights into the data and facilitate deeper analysis. 
 
 ## Solution
-#### Regression Analysis Results
+### Regression Analysis Results
 - **Equation**: Profit = 0.8057(R&D_Spend) - 0.0268(Administration_Spend) + 0.0272(Marketing_Spend) + 50122.19
 - **R-squared value**: 0.95 (indicating 95% accuracy of the model)
 
