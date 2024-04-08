@@ -15,7 +15,7 @@ The dataset used in this project contains information from 50 startups located i
 ## Methodology
 1. **Regression Analysis**: Linear regression was performed to model the relationship between the independent variables (R&D spending, Administration spending, Marketing spending) and the dependent variable (Profit).
 
-2.**Dashboard Visualization**: The analysis results were visualized using Power BI to provide insights into the data and facilitate deeper analysis. 
+2. **Dashboard Visualization**: The analysis results were visualized using Power BI to provide insights into the data and facilitate deeper analysis. 
 
 ## Solution
 ### Regression Analysis Results
