@@ -26,8 +26,28 @@ The dataset used in this project contains information from 50 startups located i
 1. If R&D_Spend is $21,892.92, Administration_Spend is $81,910.77, and Marketing_Spend is $164,270.7, the predicted profit is $70,037.90477.
 2. If R&D_Spend is $23,940.93, Administration_Spend is $96,489.63, and Marketing_Spend is $137,001.1, the predicted profit is $70,554.57256.
 
-## Insights
+## Insights from Regression Analysis
 - The model suggests that spending more on Research & Development tends to yield higher profits for startups.
 - Conversely, higher spending on Administration may not significantly impact profits.
 - Marketing spending, while still contributing to profit, has a relatively smaller effect compared to R&D spending.
 
+
+## Insights from Power BI Analysis
+
+### Total Spending
+
+- The total spending on Administration is highest in New York and California ($2.1M each), while Florida has slightly lower spending of $1.9M.
+- The total Marketing spend is highest in Florida ($4.0M), followed by New York ($3.5M) and California ($3.1M).
+- R&D spending is consistent in New York and Florida ($1.3M each) but slightly lower in California ($1.1M).
+
+### Profit
+
+- New York has the highest profit ($1.93M), followed by Florida ($1.9M) and California ($1.77M).
+
+## Conclusion
+
+Startups in New York and Florida, with a focus on Research & Development (R&D) and marketing, seem to achieve higher profits, even though there might be higher administrative spending in certain areas.
+
+### Dashboard Link
+
+To explore the detailed state-wise profit and expenditure analysis, visit the [dashboard](https://www.novypro.com/project/state-wise--profit--expenditure-analysis).
