@@ -50,4 +50,4 @@ Startups in New York and Florida, with a focus on Research & Development (R&D) a
 
 ### Dashboard Link
 
-To explore the detailed state-wise profit and expenditure analysis, visit the [dashboard](https://www.novypro.com/project/state-wise--profit--expenditure-analysis).
+To explore the detailed state-wise profit and expenditure analysis, visit the [Dashboard](https://www.novypro.com/project/state-wise--profit--expenditure-analysis).
