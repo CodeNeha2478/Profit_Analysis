@@ -2,9 +2,9 @@
 
 ### Project Links
 
-- **Live Dashboard:** [Click here](https://www.novypro.com/project/state-wise--profit--expenditure-analysis)  
-- **Solution File (View Only):** [Click here](https://drive.google.com/file/d/1Jxcffd6zIbNrD8tgdDPewXZwQaQQ3Tz_/view?usp=sharing)  
-- **Dataset (View Only):** [Click here](https://drive.google.com/file/d/1PzRFq28TnQeWbX6y5LSRuzRLBuNF4ef_/view?usp=sharing)  
+👉 **Live Dashboard:** [Click here](https://www.novypro.com/project/state-wise--profit--expenditure-analysis)  
+👉 **Solution File (View Only):** [Click here](https://drive.google.com/file/d/1Jxcffd6zIbNrD8tgdDPewXZwQaQQ3Tz_/view?usp=sharing)  
+👉 **Dataset (View Only):** [Click here](https://drive.google.com/file/d/1PzRFq28TnQeWbX6y5LSRuzRLBuNF4ef_/view?usp=sharing)  
 
 ## Tools Used
 - Microsoft Excel  
