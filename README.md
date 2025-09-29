@@ -3,8 +3,8 @@
 ### Project Links
 
 👉 **Live Dashboard:** [Click here](https://www.novypro.com/project/state-wise--profit--expenditure-analysis)  
-👉 **Solution File:** [Click here](https://drive.google.com/file/d/1Jxcffd6zIbNrD8tgdDPewXZwQaQQ3Tz_/view?usp=sharing)  
-👉 **Dataset :** [Click here](https://drive.google.com/file/d/1PzRFq28TnQeWbX6y5LSRuzRLBuNF4ef_/view?usp=sharing)  
+👉 **Solution File:**  [Click here](https://drive.google.com/file/d/1Jxcffd6zIbNrD8tgdDPewXZwQaQQ3Tz_/view?usp=sharing)  
+👉 **Dataset :**       [Click here](https://drive.google.com/file/d/1PzRFq28TnQeWbX6y5LSRuzRLBuNF4ef_/view?usp=sharing)  
 
 ## Tools Used
 - Microsoft Excel  
