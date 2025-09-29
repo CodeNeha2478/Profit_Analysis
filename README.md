@@ -1,4 +1,4 @@
-# Startup Profit & Expenditure Analysis using Regression
+# Profit Analysis 
 
 ### Project Links
 
