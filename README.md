@@ -1,5 +1,15 @@
-# Regression_Analysis_for_Profit_Prediction_in_Startup_Companies
-Tools used -  (1) Microsoft Excel   (2) Power Bi
+# Startup Profit & Expenditure Analysis using Regression
+
+### Project Links
+
+- **Live Dashboard:** [Click here](https://www.novypro.com/project/state-wise--profit--expenditure-analysis)  
+- **Solution File (View Only):** [Click here](https://drive.google.com/file/d/1Jxcffd6zIbNrD8tgdDPewXZwQaQQ3Tz_/view?usp=sharing)  
+- **Dataset (View Only):** [Click here](https://drive.google.com/file/d/1PzRFq28TnQeWbX6y5LSRuzRLBuNF4ef_/view?usp=sharing)  
+
+## Tools Used
+- Microsoft Excel  
+- Power BI  
+
 
 ## Overview
 This project focuses on analyzing the impact of spending on Research & Development, Administration, and Marketing on the profits of startups. The analysis utilizes regression analysis to establish a relationship between these variables and predict the profit of startups based on their spending.
