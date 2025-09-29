@@ -58,6 +58,3 @@ The dataset used in this project contains information from 50 startups located i
 
 Startups in New York and Florida, with a focus on Research & Development (R&D) and marketing, seem to achieve higher profits, even though there might be higher administrative spending in certain areas.
 
-### Dashboard Link
-
-To explore the detailed state-wise profit and expenditure analysis, visit the [Dashboard](https://www.novypro.com/project/state-wise--profit--expenditure-analysis).
